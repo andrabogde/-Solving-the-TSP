@@ -30,6 +30,12 @@ The results are visualized using a graphical interface that displays how each al
 
 ---
 
+| Hill Climbing | Simulated Annealing | Genetic Algorithm |
+|---------------|---------------------|-------------------|
+| ![Hill Climbing](images/HILLCLIMBING.png) | ![Simulated Annealing](images/Simulated_annealing.png) | ![Genetic Algorithm](images/alg_genetic.png) |
+
+---
+
 ## 🧩 Implementation Details
 - **`generate_cities(n)`** → generates `n` cities with random coordinates.  
 - **`total_distance(route, cities)`** → calculates the total cost of a route.  
